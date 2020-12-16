@@ -1,0 +1,2 @@
+C:\Users\yaela\Desktop\desk_ws\htdocs_ws\CPP\Calculator\Debug\Calculator.exe
+C:\Users\yaela\Desktop\desk_ws\htdocs_ws\CPP\Calculator\Debug\Calculator.pdb
